@@ -1,0 +1,17 @@
+creating a file by cmd
+
+C:\Users\hcsar\Desktop\Git_and_GitHub>touch fourth.txt
+
+C:\Users\hcsar\Desktop\Git_and_GitHub>open fourth.txt
+'open' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hcsar\Desktop\Git_and_GitHub>read fourth.txt
+'read' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\hcsar\Desktop\Git_and_GitHub>start fourth.txt
+
+C:\Users\hcsar\Desktop\Git_and_GitHub>type fourth.txt
+i am from fourth.
+C:\Users\hcsar\Desktop\Git_and_GitHub>
